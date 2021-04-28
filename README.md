@@ -4,6 +4,6 @@ By the way the files like "!fly.js"  are only named like that to stay near the t
 # Liability 
 I do not check these so if they have bad shit in them make an issue and tell me, if they do have shit in them I do not take liability.
 # Utility scripts
-Scripts with names like "?mathUtil" are for utility
+Scripts with names like "?mathUtil" are for utility, go to file utilstuff.md for more info on that.
   
 
